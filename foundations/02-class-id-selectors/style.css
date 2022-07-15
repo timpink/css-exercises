@@ -1,0 +1,31 @@
+
+
+p {
+    color: #000000;
+    background-color: #ff99cc;
+}
+
+#number2 {
+    color: #3333ff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#number4 {
+    color: #000000;
+    background-color: #33ff77;
+    font-weight: 900;
+}
+
+.odd {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oddcool {
+    font-size: 24px;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
